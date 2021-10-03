@@ -6,7 +6,7 @@ public class Main {
         int a = 0;
         int b = 6;
         if (a == 0) {
-            System.out.println("The result  of this: ((" + a + b);
+            System.out.println("The result  of  this: ((" + a + b);
 
         }
     }
